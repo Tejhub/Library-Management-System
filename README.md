@@ -4,8 +4,6 @@ Hi!, welcome to my repository. The **Library Management System (LMS)** is develo
 features such as adding and managing students, books with efficiently maintaining their data. It also contains other security features such as **Captcha Verification** and 
 **Password Encryption**. This is a complete LMS with all the necessary functionalties. It also provides feature to **generate report** and **manage fine**.
 
-Note: This is an extended version of Library Management System that can be found [here](https://phpgurukul.com/online-library-management-system/). I have added more advance functionalities like **report generation**.
-
 # Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
@@ -13,8 +11,8 @@ These instructions will get you a copy of the project up and running on your loc
 ## Prerequisites
 
 It is good to have basic knowledge of HTML, CSS, PHP and MySQL to understand this project.
->We will use XAMP server as it has cross-platform support and we won't be needed to worry about the operating system support.
-Download and install suitable XAMP server from this link - https://www.apachefriends.org/download.html
+>We will use XAMPP server as it has cross-platform support and we won't be needed to worry about the operating system support.
+Download and install suitable XAMPP server from this link - https://www.apachefriends.org/download.html
 
 ## Setting up the environment
 
